@@ -1,0 +1,5 @@
+*.out
+input
+csh
+.vscode
+PATH
